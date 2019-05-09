@@ -48,6 +48,8 @@ class App extends Component {
                 <li>Jeremy Bezzant</li>
 
                 <li>Ryan Hall</li>
+                <li>alex 2</li>
+                <li>alex boi</li>
                 {/* add name here*/}
               </ul>
             </div>
